@@ -1,0 +1,36 @@
+
+
+
+
+
+
+//      true && true = true
+//      true && false = false
+//      true || false = true
+//      false || false = false
+
+
+
+
+[] access array element
+. access object member
+() parentheses
+
+++ unary pre-increment
+-- unary pre-decrement
++ unary plus
+- unary minus
+! unary logical NOT
+~ unary bitwise NOT
+
+() cast
+new - object creator
+
+* / % multiplicative
+
++ - additive
++ string concatenation
+
+<<  shift
+>>  shift
+>>>> shift
