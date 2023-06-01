@@ -29,7 +29,7 @@ public class StreamsOverviewMain {
         employeeList.add(new Employee(9, "Tony", "Grey", 90000, "Finance"));
         employeeList.add(new Employee(10, "Mike", "Yellow", 60000, "IT"));
         employeeList.add(new Employee(11, "Victoria", "Pink", 75000, "Finance"));
-
+//
 //        secondList.add(new Employee(1, "Alex", "Black", 50000));
 //        secondList.add(new Employee(2, "John", "Green", 75000));
 //        secondList.add(new Employee(6, "Sam", "Brown", 80000));
@@ -42,11 +42,6 @@ public class StreamsOverviewMain {
 //        secondList.add(new Employee(10, "Mike", "Yellow", 60000));
 //        secondList.add(new Employee(11, "Victoria", "Pink", 75000));
 
-//        testStreamFormList();
-//        testStreamFromFile();
-//        testSortAndReduce();
-//        partitionByIncome();
-//        groupByCriterion(Employee::getDepartment);
 
 
         Supplier<Integer> supplier = new Supplier<Integer>() {
